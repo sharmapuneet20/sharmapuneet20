@@ -1,15 +1,8 @@
-### Hi there 👋
-
-<!--
-**sharmapuneet20/sharmapuneet20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Puneet Sharma</h1>
 <h3 align="center">A passionate college student from India who is looking forward to learn and grow.</h3>
-<img align="right" width="350px" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="img" >
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="img" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapuneet20&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapuneet20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmapuneet20" alt="sharmapuneet20" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and algo**
 
