@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapuneet20&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapuneet20" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and algo**
+- 🌱 Web Development|| data Structures and Algo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharmapuneet20/sharmapuneet20](https://github.com/sharmapuneet20/sharmapuneet20)
 
